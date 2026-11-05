@@ -1,4 +1,17 @@
 # Hey, I'm RISHABH 🌿⚡
 
-Somewhere between a keyboard and a cup of chai, I'm a Computer Science Engineering student at VIT Chennai, learning to build things that feel human. I like my code clean, my projects grounded, and my breaks outdoors, whether that's a long walk or a session at the gym.
+<a href="https://www.linkedin.com/in/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+
+<a href="https://x.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+
+<a href="https://www.youtube.com/"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg"></a>&nbsp;&nbsp;
+
+<a href=""><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/medium.svg"></a>&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Website-2ECFB8?style=for-the-badge&logo=google-chrome&logoColor=white">
+
+</p>
+
+
+
 
