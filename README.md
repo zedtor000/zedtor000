@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Spandan%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Builder%20%C2%B7%20Self-Taught%20%C2%B7%20Space%20Dreamer&descSize=18&descAlignY=62&descColor=a5b4fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Rishabh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Builder%20%C2%B7%20Self-Taught%20%C2%B7%20Space%20Dreamer&descSize=18&descAlignY=62&descColor=a5b4fc" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=A5B4FC&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Spandan+Singh+%F0%9F%91%8B;CS+student+%C2%B7+self-taught+builder;Software+%2B+Hardware+%C2%B7+AI+%C2%B7+Robotics;Dreaming+of+space+%26+interplanetary+tech+%F0%9F%9A%80" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=A5B4FC&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Rishabh+%F0%9F%91%8B;CS+student+%C2%B7+self-taught+builder;Software+%2B+Hardware+%C2%B7+AI+%C2%B7+Robotics;" alt="Typing animation" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=spandiepool&label=Profile%20Views&color=302b63&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=zedtor000&label=Profile%20Views&color=302b63&style=flat-square)
 
 </div>
 
@@ -16,17 +16,15 @@
 
 ## 👨‍💻 About Me
 
-I'm a 19-year-old Computer Science student at **VIT Bhopal**, and I learn by building. I taught myself game development, basic electronics, and a lot more by doing things hands-on instead of waiting for a syllabus to teach me.
+I'm a 18-year-old Computer Science student at **VIT Chennai**, and I learn by building. I taught myself web app development, front end/back end curation, and a lot more by doing things hands-on instead of waiting for a syllabus to teach me.
 
 My goal is to use my college years to build real products and real skills, either a serious business outcome or a portfolio strong enough to land a great tech role.
 
 ## 🚀 What I'm Into
 
 - 🤖 **AI & Robotics**
-- 🛰️ **Space tech & interplanetary systems**
 - 🔧 **Hardware + software intersection work**
-- 🛡️ **Futuristic & defense tech**
-- 💻 **Solid software engineering fundamentals**
+- 🤓 **Web app development
 
 ## 🛠️ Tech Stack
 
