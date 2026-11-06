@@ -1,5 +1,3 @@
-# Hey, I'm RISHABH 🌿⚡
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Rishabh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Builder%20%C2%B7%20Self-Taught%20%C2%B7%20Space%20Dreamer&descSize=18&descAlignY=62&descColor=a5b4fc" width="100%" />
@@ -24,7 +22,7 @@ My goal is to use my college years to build real products and real skills, eithe
 
 - 🤖 **AI & Robotics**
 - 🔧 **Hardware + software intersection work**
-- 🤓 **Web app development
+- 🤓 **Web app development**
 
 ## 🛠️ Tech Stack
 
@@ -40,9 +38,7 @@ My goal is to use my college years to build real products and real skills, eithe
 
 ## 🔭 Things I've Built / Am Building
 
-- 📊 **Life Logger**: a full-stack personal dashboard (Next.js + Firebase)
-- 🗺️ **FORGE**: a single-file HTML/JS roadmap tracker for my 2026–2030 plan
-- 📚 Python projects: library book system, lab tracker, cycle rental system
+- 📊 **DietX**: a full-stack personal diet app for everyone (React.js + Supabase)
 
 ## 🌐 Connect With Me
 
