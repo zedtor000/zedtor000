@@ -1,17 +1,78 @@
 # Hey, I'm RISHABH 🌿⚡
 
-<a href="https://www.linkedin.com/in/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<div align="center">
 
-<a href="https://x.com/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Spandan%20Singh&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Builder%20%C2%B7%20Self-Taught%20%C2%B7%20Space%20Dreamer&descSize=18&descAlignY=62&descColor=a5b4fc" width="100%" />
 
-<a href="https://www.youtube.com/"><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/youtube.svg"></a>&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=A5B4FC&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Spandan+Singh+%F0%9F%91%8B;CS+student+%C2%B7+self-taught+builder;Software+%2B+Hardware+%C2%B7+AI+%C2%B7+Robotics;Dreaming+of+space+%26+interplanetary+tech+%F0%9F%9A%80" alt="Typing animation" />
 
-<a href=""><img height="30" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/medium.svg"></a>&nbsp;&nbsp;
+<br/>
 
-<img src="https://img.shields.io/badge/Website-2ECFB8?style=for-the-badge&logo=google-chrome&logoColor=white">
+![Profile Views](https://komarev.com/ghpvc/?username=spandiepool&label=Profile%20Views&color=302b63&style=flat-square)
 
-</p>
+</div>
 
+---
 
+## 👨‍💻 About Me
+
+I'm a 19-year-old Computer Science student at **VIT Bhopal**, and I learn by building. I taught myself game development, basic electronics, and a lot more by doing things hands-on instead of waiting for a syllabus to teach me.
+
+My goal is to use my college years to build real products and real skills, either a serious business outcome or a portfolio strong enough to land a great tech role.
+
+## 🚀 What I'm Into
+
+- 🤖 **AI & Robotics**
+- 🛰️ **Space tech & interplanetary systems**
+- 🔧 **Hardware + software intersection work**
+- 🛡️ **Futuristic & defense tech**
+- 💻 **Solid software engineering fundamentals**
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🔭 Things I've Built / Am Building
+
+- 📊 **Life Logger**: a full-stack personal dashboard (Next.js + Firebase)
+- 🗺️ **FORGE**: a single-file HTML/JS roadmap tracker for my 2026–2030 plan
+- 📚 Python projects: library book system, lab tracker, cycle rental system
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/spandan-singh-460a56422/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/horiznedge/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://github.com/spandiepool">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:spandansingh2025@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Learn by building. Build to learn."* ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+
+</div>
 
 
